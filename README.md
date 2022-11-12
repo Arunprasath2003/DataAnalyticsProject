@@ -1,9 +1,9 @@
 ## Our real estate price prediction project for CSE3505 Foundations of Data Analytics
 
-Team Members:
-1.Arun Prasath B 20BRS1080
-2.Arunachalam V 20BRS1067
-3.Shrikrish S 20BRS1190
+Team Members:<br />
+1.Arun Prasath B 20BRS1080 <br />
+2.Arunachalam V 20BRS1067 <br />
+3.Shrikrish S 20BRS1190 <br />
 
 [You can reach the application here.](https://arunprasath2003-dataanalyticsproject-real-estate-app-6syvmz.streamlit.app/)
 
